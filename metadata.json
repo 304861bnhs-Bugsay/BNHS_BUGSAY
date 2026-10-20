@@ -1,0 +1,7 @@
+{
+  "name": "PedagogyTrack - Master Teacher M&E System",
+  "description": "Comprehensive Monitoring and Evaluation platform for Master Teachers to observe, evaluate, coach, and support classroom teachers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
